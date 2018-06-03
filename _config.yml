@@ -4,10 +4,14 @@ theme: jekyll-theme-cayman
 name: Andrew Eaton
 
 #Short bio or description (displayed in the header)
-description: Machine Learning Fellow in London
+description: >
+  Welcome to my personal website. I am currently a machine learning fellow in London.
+  The main purpose of this website is to provide blog posts on the background of important
+  topics in understanding deep learning.
 
 #URL of avatar or profile picture
 avatar: https://github.com/aweeaton/aweeaton.github.io/blob/master/static/images/mypic.png
-
+github_username : aweeaton
+email: aweeaton@gmail.com
 layout: post
 title: Blog
