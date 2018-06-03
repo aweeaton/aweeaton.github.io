@@ -1,3 +1,13 @@
 theme: jekyll-theme-cayman
+
+#Name of the site (displayed in the header)
+name: Andrew Eaton
+
+#Short bio or description (displayed in the header)
+description: Machine Learning Fellow in London
+
+#URL of avatar or profile picture
+avatar: https://github.com/aweeaton/aweeaton.github.io/blob/master/static/images/mypic.png
+
 layout: post
 title: Blog
