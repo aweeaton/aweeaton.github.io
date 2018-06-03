@@ -15,3 +15,5 @@ github_username : aweeaton
 email: aweeaton@gmail.com
 layout: post
 title: Blog
+
+{% include main.html %}
