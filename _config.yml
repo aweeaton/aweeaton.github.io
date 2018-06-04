@@ -1,5 +1,4 @@
----
-#Name of the site (displayed in the header)
+
 name: Andrew Eaton
 
 #Short bio or description (displayed in the header)
@@ -9,11 +8,16 @@ description: >
   topics in understanding deep learning.
 
 #URL of avatar or profile picture
-favicon: https://github.com/aweeaton/aweeaton.github.io/blob/master/static/images/favicon.ico
+favicon: "static/images/favicon.ico"
 github_username : aweeaton
 author_email: aweeaton@gmail.com
 layout: post
 title: Blog
-logo: https://github.com/aweeaton/aweeaton.github.io/blob/master/static/images/favicon.ico
+logo: "static/images/favicon.ico"
 markdown: kramdown
----
+footer_links:
+  github: aweeaton
+aboutme: Hi, this is Andrew.
+aboutme_photo: "static/images/mypic.png"
+ShowContactInfo: "True"
+paginate: 5
