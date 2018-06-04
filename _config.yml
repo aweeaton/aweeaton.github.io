@@ -11,7 +11,7 @@ description: >
   topics in understanding deep learning.
 
 #URL of avatar or profile picture
-avatar: https://github.com/aweeaton/aweeaton.github.io/blob/master/static/images/mypic.png
+favicon: https://github.com/aweeaton/aweeaton.github.io/blob/master/static/images/favicon.ico
 github_username : aweeaton
 author_email: aweeaton@gmail.com
 layout: post
