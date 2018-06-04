@@ -1,6 +1,4 @@
-
-theme: jekyll-theme-cayman
-
+---
 #Name of the site (displayed in the header)
 name: Andrew Eaton
 
@@ -16,4 +14,6 @@ github_username : aweeaton
 author_email: aweeaton@gmail.com
 layout: post
 title: Blog
-logo: /Users/eaton/Desktop/Blogs/Jekyll_Website/static/images/favicon.ico
+logo: https://github.com/aweeaton/aweeaton.github.io/blob/master/static/images/favicon.ico
+markdown: kramdown
+---
