@@ -1,3 +1,4 @@
+
 theme: jekyll-theme-cayman
 
 #Name of the site (displayed in the header)
@@ -12,8 +13,7 @@ description: >
 #URL of avatar or profile picture
 avatar: https://github.com/aweeaton/aweeaton.github.io/blob/master/static/images/mypic.png
 github_username : aweeaton
-email: aweeaton@gmail.com
+author_email: aweeaton@gmail.com
 layout: post
 title: Blog
-
-{% include main.html %}
+logo: /Users/eaton/Desktop/Blogs/Jekyll_Website/static/images/favicon.ico
