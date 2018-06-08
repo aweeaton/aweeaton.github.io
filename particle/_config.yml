@@ -1,0 +1,29 @@
+theme: jekyll-theme-slate
+name: Andrew Eaton
+markdown: kramdown
+
+#Short bio or description (displayed in the header)
+description: >
+  I am currently a machine learning fellow in London at Fellowship.AI.
+  My background is in molecular biology and I am interested in the role of artificial intelligence in medicine and music.
+  The purpose of this site is to provide blog posts on the background of important themes in deep learning.
+
+url: "https://aweeaton.github.io/"
+
+#URL of avatar or profile picture
+username: Andrew Eaton
+user_description: Machine Learning Fellow at Fellowship.AI
+email: aweeaton@gmail.com
+favicon: "static/images/favicon.ico"
+github_username : aweeaton
+author_email: aweeaton@gmail.com
+layout: post
+title: Blog
+logo: "static/images/favicon.ico"
+markdown: kramdown
+footer_links:
+  github: aweeaton
+aboutme: Hi, this is Andrew.
+aboutme_photo: "static/images/mypic.png"
+ShowContactInfo: "True"
+paginate: 5
