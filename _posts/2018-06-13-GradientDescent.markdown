@@ -5,4 +5,4 @@ date: 2018-06-13
 categories: blog
 ---
 
-<embed src="https://aweeaton.github.io/Gradient_Descent.pdf" type="application/pdf" />
+<iframe src="https://aweeaton.github.io/Gradient_Descent.pdf" height="100%" width="100%" frameborder="0">
