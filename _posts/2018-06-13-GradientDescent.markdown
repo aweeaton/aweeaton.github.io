@@ -6,3 +6,7 @@ categories: blog
 ---
 
 <iframe src="https://aweeaton.github.io/Gradient_Descent.pdf" height="100%" width="100%" frameborder="0">
+
+body {
+    margin: 0;
+}
